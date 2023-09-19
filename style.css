@@ -73,16 +73,17 @@ li{
 }
 .banner{
 	display: flex;
-	height: 650px;
 	background-color: #20a4dc;
 	color: white;
 	gap: 50px;
 	align-items: center;
+	padding: 80px 100px 60px 100px;
 }
 .head-banner{
 	font-size: 70px;
-	font-weight: 400;
+	font-weight: 300;
 	margin-bottom: 30px;
+	margin-top: 0;
 }
 p{
 	font-size: 22px;
@@ -112,4 +113,28 @@ p{
 }
 .banner-img{
 	width: 100%;	
+}
+.acv{
+	text-align: center;
+	font-size: 30px;
+	background-color: #eeeeee;
+	padding: 30px 0;
+}
+.acvs{
+	display: flex;
+	justify-content: center;
+	gap: 100px;
+}
+.tahun,h1{
+	margin: 0;
+	font-weight: 300;
+}
+.h-acv{
+	font-weight: 100;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+.p-acv{
+	font-weight: 500;
+	margin-top: 0;
 }
