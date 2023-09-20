@@ -138,3 +138,45 @@ p{
 	font-weight: 500;
 	margin-top: 0;
 }
+.new{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	font-size: 40px;
+	font-weight: 500;
+	color: #666;
+}
+.page-new{
+	background-color: #6a277a;
+	display: flex;
+	gap: 170px;
+	margin: 0 100px;
+	border-radius: 10px;
+	color: white;
+	padding: 0 50px 0 100px;
+}
+.new-img{
+	height: 350px;
+	flex: 1;
+}
+.new-text{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.new-tittle{
+	font-size: 30px;
+}
+.new-sp{
+	font-size: 20px;
+	font-weight: 100;
+}
+.new-btn{
+	border-radius: 10px;
+	background-color: white;
+	color: #6a277a;
+	padding: 10px 20px;
+	font-size: 14px;
+	border-style: none;
+	font-weight: 100;
+	margin-top: 25px;
+}
