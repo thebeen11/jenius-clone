@@ -6,6 +6,7 @@ html, body{
 	height: 100%;
 	position:relative;
 	font-family: 'Roboto', sans-serif;
+	background-color: #f6f6f6;
 	}
    
    body{
@@ -24,6 +25,9 @@ nav{
 	padding: 16px 0;
 	position: sticky;
 	top: 0;
+}
+p{
+	font-size: 20px;
 }
 .main-pad{
 	padding: 0 100px;
@@ -148,12 +152,7 @@ p{
 }
 .page-new{
 	background-color: #6a277a;
-	display: flex;
-	gap: 170px;
-	margin: 0 100px;
-	border-radius: 10px;
 	color: white;
-	padding: 0 50px 0 100px;
 }
 .new-img{
 	height: 350px;
@@ -179,4 +178,35 @@ p{
 	border-style: none;
 	font-weight: 100;
 	margin-top: 25px;
+}
+.box{
+	display: flex;
+	gap: 170px;
+	margin: 0 100px;
+	border-radius: 10px;
+	padding: 0 50px 0 100px;
+}
+.app{
+	background-color: white;
+	margin-top: 100px;
+	align-items: center;
+}
+.app-text{
+	color: #666;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	flex: 1;
+}
+.app-tittle{
+	font-size: 30px;
+	font-weight: 300;
+}
+.app-img{
+	height: 300px;
+	padding: 60px 20px 50px 0;
+}
+.app-btn{
+	float: left;
+	font-weight: 500;
+	margin-top: 100px;
 }
