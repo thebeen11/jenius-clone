@@ -26,6 +26,9 @@ nav{
 	position: sticky;
 	top: 0;
 }
+h2{
+	font-size: 30px;
+}
 p{
 	font-size: 20px;
 }
@@ -185,6 +188,7 @@ p{
 	margin: 0 100px;
 	border-radius: 10px;
 	padding: 0 50px 0 100px;
+	align-items: center;
 }
 .app{
 	background-color: white;
@@ -208,5 +212,55 @@ p{
 .app-btn{
 	float: left;
 	font-weight: 500;
+	margin-top: 100px;
+}
+.tabung{
+	padding-top: 30px;
+}
+.tabung-tittle{
+	font-weight: 100;
+	color: #666;
+	text-align: center;
+}
+.tabung-page{
+	background-color: white;
+	gap: 50px;
+	padding-left: 50px;
+}
+.tabung-img{
+	height: 350px;
+	padding: 50px 0 50px 0;
+}
+.tabung-text{
+	color: #666;
+	text-align: left;
+	font-weight: 100;
+}
+.tabung-sh{
+	font-size: 30px;
+	font-weight: 300;
+}
+.tabung-btn{
+	float: left;
+	margin-top: 100px;
+}
+.flexi{
+	background-color: #4846dd;
+	margin-top: 75px;
+	color: white;
+	gap: 30px;
+}
+.flexi-img{
+	height: 350px;
+	padding: 50px;
+}
+.flexi-sh{
+	font-size: 30px;
+	font-weight: 300;
+}
+.flexi-btn{
+	font-size: 16px;
+	font-weight: 300;
+	color: #4846dd;
 	margin-top: 100px;
 }
