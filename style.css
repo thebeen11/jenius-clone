@@ -264,3 +264,98 @@ p{
 	color: #4846dd;
 	margin-top: 100px;
 }
+.trans-tittle{
+	color: #666;
+	text-align: center;
+}
+.row1{
+	display: flex;
+	gap: 50px;
+	padding: 0;
+}
+.half-box{
+	height: 450px;
+	border-radius: 10px;
+	padding: 50px;
+}
+.send{
+	background-color: #20a4dc;
+	flex: 1;
+}
+.send-sh{
+	font-size: 30px;
+	font-weight: 300;
+	color: #666;
+	margin: 0;
+	color: white;
+}
+.send-btn{
+	font-size: 16px;
+	font-weight: 300;
+	margin: 50px 0 50px 0;
+}
+.send-img{
+	height: 300px;
+}
+.pay{
+	background-color: white;
+	flex: 1;
+}
+.pay-sh{
+	font-size: 30px;
+	font-weight: 300;
+	margin: 0;
+	color: #666;
+}
+.pay-img{
+	height: 350px;
+	margin-bottom: 50px;
+}
+.pay-btn{
+	float: left;
+	margin: 50px 0 50px 0;
+}
+.row2{
+	display: flex;
+	gap: 50px;
+	margin: 50px 100px 50px 100px;
+}
+.bill{
+	background-color: white;
+	flex: 1;
+}
+.bill-sh{
+	font-size: 30px;
+	font-weight: 300;
+	margin: 0;
+	color: #666;
+}
+.bill-img{
+	height: 350px;
+}
+.bill-btn{
+	float: left;
+	margin-top: 50px;
+}
+.wallet{
+	background-color: white;
+	flex: 1;
+}
+.wallet-sh{
+	font-size: 30px;
+	font-weight: 300;
+	margin: 0;
+	color: #666;
+}
+.wallet-img{
+	height: 250px;
+	margin-bottom: 50px;
+}
+.wallet-btn{
+	float: left;
+	margin: 50px 0 50px 0;
+}
+.img-center{
+	display: flex;
+	justify-content: center;
+}
