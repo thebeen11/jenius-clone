@@ -292,7 +292,7 @@ p{
 .send-btn{
 	font-size: 16px;
 	font-weight: 300;
-	margin: 50px 0 50px 0;
+	margin: 30px 0 50px 0;
 }
 .send-img{
 	height: 300px;
@@ -309,11 +309,10 @@ p{
 }
 .pay-img{
 	height: 350px;
-	margin-bottom: 50px;
 }
 .pay-btn{
 	float: left;
-	margin: 50px 0 50px 0;
+	margin: 30px 0 20px 0;
 }
 .row2{
 	display: flex;
@@ -358,4 +357,32 @@ p{
 .img-center{
 	display: flex;
 	justify-content: center;
+}
+.footer{
+	background-color: #20a4dc;
+	color: white;
+}
+.slogan{
+	padding-top: 50px;
+	margin: 30px 400px 20px 400px;
+	text-align: center;
+}
+.slogan-h{
+	font-size: 40px;
+	font-weight: 300;
+}
+.slogan-sh{
+	font-size: 23px;
+	font-weight: 300;
+}
+.slogan-btn{
+	font-weight: 100;
+}
+.slogan-img{
+	display: flex;
+	height: 60px;
+	padding-top: 10px;
+	justify-content: center;
+	gap: 5px;
+	padding-bottom: 50px;
 }
