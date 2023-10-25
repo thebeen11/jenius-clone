@@ -386,3 +386,29 @@ p{
 	gap: 5px;
 	padding-bottom: 50px;
 }
+.footer-menu{
+	display: flex;
+	color: white;
+	padding: 0px 100px 50px 100px;
+}
+.navigation{
+	flex: 	4;
+}
+.nav-menu{
+	display: flex;
+	float: left;
+}
+.foot-list{
+	color: white;
+	float: left;
+	padding: 5px 0px 5px 0px;
+}
+.others{
+	flex: 	1;
+}
+.menu-tittle{
+	font-size: 24px;
+}
+.submenu{
+	font-size: 18px;
+}
